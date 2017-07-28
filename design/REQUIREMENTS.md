@@ -96,7 +96,9 @@ I'm sure this feature is going to be nightmare.
 # Test Runs
 Test Runs should be created from test plans. Each test case/suite should get "cloned" into a test plan whereby the test cases can be marked as Pass, Fail, Skip, Not Applicable, etc. Perhaps the snippet system could be used here for a whole case so that it's not the whole data that gets cloned in the DB.
 
-
+Test cases in test runs should also involve things such as:
+- assignees
+- history
 
 
 
